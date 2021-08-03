@@ -1,1 +1,1 @@
-Here is presentaion and block diagram of project.
+Here is the presentaion, components list and block diagram of project.
