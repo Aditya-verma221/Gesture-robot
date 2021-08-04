@@ -1,2 +1,2 @@
 # Gyro-robot
-Complete gesture controlled Robot project.
+Complete wireless gesture controlled Robot project.
